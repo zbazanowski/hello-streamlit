@@ -12,8 +12,12 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+<<<<<<< HEAD
 # adding comment
 # adding comment with GitHub web UI
+=======
+# new comment on the original file
+>>>>>>> 499135f (Trying to cause a conflict.)
 
 import streamlit as st
 from streamlit.logger import get_logger
