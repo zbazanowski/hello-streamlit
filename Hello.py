@@ -12,6 +12,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+# adding comment
+# adding comment with GitHub web UI
+
 import streamlit as st
 from streamlit.logger import get_logger
 
@@ -24,7 +27,7 @@ def run():
         page_icon="👋",
     )
 
-    st.write("# Welcome to Streamlit! 👋")
+    st.write("# :balloon: Welcome to Streamlit! 👋")
 
     st.sidebar.success("Select a demo above.")
 
